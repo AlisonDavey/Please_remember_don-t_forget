@@ -1,5 +1,5 @@
-# Please_remember_don-t_forget
-![Super-Linter](https://github.com/AlisonDavey/Please_remember_don-t_forgetworkflows/Super-Linter/badge.svg)
+# Please remember don't forget
+![Super-Linter](https://github.com/AlisonDavey/Please_remember_don-t_forget/workflows/Super-Linter/badge.svg)
 
 Tips and examples for Python coding and plotting.
 
